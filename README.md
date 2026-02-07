@@ -26,7 +26,7 @@ A comprehensive React Native framework with theming, navigation, state managemen
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/attendance1978-wq/my-rn-framework.git>
 cd my-rn-framework
 ```
 
@@ -187,3 +187,4 @@ The project uses ESLint and Prettier for code formatting. Run `npm run lint:fix`
 ## License
 
 This project is licensed under the MIT License.
+
