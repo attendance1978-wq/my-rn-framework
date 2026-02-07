@@ -1,0 +1,5 @@
+- [ ] Add "type": "module" to package.json
+- [ ] Install @typescript-eslint/parser and @typescript-eslint/eslint-plugin
+- [ ] Update eslint.config.js to handle TypeScript files properly
+- [ ] Run npm run lint:fix to fix formatting issues
+- [ ] Verify all errors are fixed by running lint again
